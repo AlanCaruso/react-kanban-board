@@ -31,5 +31,7 @@ Este proyecto es una implementación de un tablero Kanban simple que consta de t
    ```
 
    Esto abrirá una ventana del navegador con el tablero Kanban.
+   
+   Live Preview: https://alancaruso-kanban-app.netlify.app/
 
    ¡Gracias por revisar mi proyecto!
