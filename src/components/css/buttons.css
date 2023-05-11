@@ -1,0 +1,32 @@
+.btn {
+  background: transparent;
+  border: 0;
+  color: #000000;
+  cursor: pointer;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 4px 4px 4px 4px;
+}
+
+.btn-primary {
+  background: #4e46dc;
+  border: 0;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 4px 4px 4px 4px;
+  font-family: "Montserrat", sans-serif;
+  line-height: 1;
+}
+.btn-block {
+  width: 100px;
+}
+.btn:disabled {
+  opacity: 0.5;
+}
+.btn-delete {
+  width: 27px;
+  height: 25px;
+  cursor: pointer;
+}
