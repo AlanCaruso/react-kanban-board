@@ -1,37 +1,34 @@
-# Tablero Kanban Simple
+# Simple Kanban Board
 
-Este proyecto es una implementación de un tablero Kanban simple que consta de tres columnas: "Sin realizar", "En proceso" y "Realizado". El objetivo es permitir a los usuarios crear tareas y moverlas entre las diferentes columnas del tablero.
+This project is an implementation of a simple Kanban board consisting of three columns: "To Do", "In Progress", and "Done". The goal is to allow users to create tasks and move them between the different columns of the board.
 
-## Funcionalidades
+## Features
 
-- Creación de tareas: los usuarios pueden crear tareas que constan de una descripción.
-- Movimiento de tareas: los usuarios pueden mover las tareas entre las tres columnas del tablero.
-- Interfaz intuitiva: el tablero cuenta con una interfaz fácil de usar que permite a los usuarios crear y mover tareas de forma sencilla.
-- Persistencia de datos: las tareas creadas no se persisten, lo que significa que se perderán cuando se cierre el navegador.
+- Task Creation: Users can create tasks that consist of a description.
+- Task Movement: Users can move tasks between the three columns of the board.
+- Intuitive Interface: The board has a user-friendly interface that allows users to create and move tasks easily.
+- Data Persistence: Created tasks are not persisted, meaning they will be lost when the browser is closed.
 
-## Tecnologías utilizadas
+## Technologies Used
 
-- ReactJS: se utiliza para construir la interfaz de usuario del tablero Kanban.
-- HTML y CSS: se utilizan para dar estilo al tablero y hacerlo más atractivo para los usuarios.
+- ReactJS: Used to build the user interface of the Kanban board.
+- HTML and CSS: Used to style the board and make it more appealing to users.
 
-## Cómo ejecutar el proyecto
+## How to Run the Project
 
-1. Clonar el repositorio a tu máquina local.
-2. Abrir la terminal y navegar hasta la carpeta raíz del proyecto.
-3. Ejecutar el siguiente comando para instalar las dependencias del proyecto:
+1. Clone the repository to your local machine.
+2. Open the terminal and navigate to the project's root folder.
+3. Run the following command to install the project dependencies:
 
    ```
    npm install
    ```
 
-4. Ejecutar el siguiente comando para iniciar la aplicación:
+4. Run the following command to start the application:
 
    ```
    npm start
    ```
 
-   Esto abrirá una ventana del navegador con el tablero Kanban.
-   
-   Live Preview: https://alancaruso-kanban-app.netlify.app/
+   This will open a browser window with the Kanban board.
 
-   ¡Gracias por revisar mi proyecto!
